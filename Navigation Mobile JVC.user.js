@@ -25,10 +25,10 @@
             flex-direction: column-reverse; /* Met la bulle "retour" en bas */
         }
 
-        .jvc-nav-bubble {
+         .jvc-nav-bubble {
             width: 50px;
             height: 50px;
-            background-color: #247b9b; /* bleu foncé */
+            background-color: #054c98; /* bleu foncé */
             border-radius: 50%;
             display: flex;
             align-items: center;
@@ -45,13 +45,13 @@
 
         .jvc-nav-bubble:active {
             transform: scale(0.95);
-            background-color: #174968 ; /* bleu un peu plus foncé au clic */
+            background-color: #0b3e75 ; /* bleu un peu plus foncé au clic */
         }
 
         .jvc-nav-bubble svg {
             width: 28px;
             height: 28px;
-            fill: #e78843 ; /* orange */
+            fill: #f66031 ; /* orange */
         }
     `);
 

@@ -3,8 +3,8 @@
 // @version      1.1
 // @description  Ajoute deux bulles de navigation pour répondre aux topics et retourner à la liste des sujets.
 // @author       moyaona
-// @downloadURL https://github.com/moyaona/
-// @updateURL https://github.com/moyaona/
+// @downloadURL https://github.com/moyaona/Navigation-Mobile-JVC/raw/refs/heads/main/Navigation%20Mobile%20JVC.user.js
+// @updateURL https://github.com/moyaona/Navigation-Mobile-JVC/raw/refs/heads/main/Navigation%20Mobile%20JVC.user.js
 // @match        https://www.jeuxvideo.com/forums/42-*
 // @grant        GM_addStyle
 // @icon  https://image.noelshack.com/fichiers/2025/30/3/1753234120-logo-nav-mobile-jvc.png

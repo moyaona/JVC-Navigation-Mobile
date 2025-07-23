@@ -1,2 +1,2 @@
 # Navigation-Mobile-JVC
-Ajout de boutons raccourcis rapides pour améliorer la navigation sur mobile
+Ajoute deux bulles de navigation rapide pour répondre au topic et retourner à la liste des sujets.

@@ -11,6 +11,4 @@ Ajoute deux bulles de navigation rapide pour répondre au topic et retourner à 
 
 # Screen
 
-<img width="774" height="1469" alt="illustration script nav mobile jvc small jpg" src="https://github.com/user-attachments/assets/be6ba2a4-4ef9-43e3-82c2-5465df9d6afc" />
-
 

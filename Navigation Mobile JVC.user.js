@@ -51,7 +51,7 @@
         .jvc-nav-bubble svg {
             width: 28px;
             height: 28px;
-            fill: #f66031 ; /* orange */
+            fill: #ffffff ; /* orange */
         }
     `);
 

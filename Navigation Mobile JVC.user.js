@@ -26,8 +26,8 @@
         }
 
          .jvc-nav-bubble {
-            width: 25px;
-            height: 25px;
+            width: 35px;
+            height: 35px;
             background-color: #054c98; /* bleu foncé */
             border-radius: 50%;
             display: flex;
@@ -49,8 +49,8 @@
         }
 
         .jvc-nav-bubble svg {
-            width: 14px;
-            height: 14px;
+            width: 20px;
+            height: 20px;
             fill: #ffffff ; /* orange */
         }
     `);

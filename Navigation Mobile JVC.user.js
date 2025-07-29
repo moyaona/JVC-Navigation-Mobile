@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         Navigation Mobile JVC
-// @version      1.1
+// @name         JVC Navigation Mobile
+// @version      1.2
 // @description  Ajoute deux bulles de navigation pour répondre aux topics et retourner à la liste des sujets.
 // @author       moyaona
 // @downloadURL https://github.com/moyaona/Navigation-Mobile-JVC/raw/refs/heads/main/Navigation%20Mobile%20JVC.user.js

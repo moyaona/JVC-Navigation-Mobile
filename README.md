@@ -1,4 +1,4 @@
-# Navigation-Mobile-JVC
+# JVC-Navigation-Mobile
 Ajoute deux bulles de navigation rapide pour répondre au topic et retourner à la liste des sujets.
 
 # Installation
